@@ -1,3 +1,3 @@
 # NanoMorpho
 
-## Ath handbók sem fylgir fyrir notkun
+## Ath handbók fylgir fyrir notkun
